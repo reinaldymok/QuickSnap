@@ -44,6 +44,7 @@ namespace CardGames
 			}
 		}
 
+
 		/// <summary>
 		/// Draws the game to the Window.
 		/// </summary>
